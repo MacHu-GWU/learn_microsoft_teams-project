@@ -11,8 +11,8 @@
 
 ------
 
-.. image:: https://img.shields.io/badge/Link-Install-blue.svg
-    :target: `install`_
+.. image:: https://img.shields.io/badge/Link-Document-blue.svg
+    :target: https://learn-microsoft-teams.readthedocs.io/en/latest/
 
 .. image:: https://img.shields.io/badge/Link-GitHub-blue.svg
     :target: https://github.com/MacHu-GWU/learn_microsoft_teams-project
